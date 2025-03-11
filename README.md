@@ -14,7 +14,7 @@ My credentials include a Master's degree in Media Communications from the State 
 **Background in:** Python, Machine Learning, and Digital Corporate Communication.
 
 ### Links:
-* [Medium](https://www.medium.com)
+* [Medium](https://medium.com/@angelodatascience)
 
 ---
 
